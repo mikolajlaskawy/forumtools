@@ -1,1 +1,6 @@
 /dist/
+/build.xml
+/build/
+/debug.log
+/manifest.mf
+/nbproject/
