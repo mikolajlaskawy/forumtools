@@ -20,7 +20,7 @@ import java.util.ArrayList;
  *
  * @author mako
  */
-public class Tibiatools {
+public class Tibiatools  {
 
     /**
      * @param args the command line arguments
@@ -45,7 +45,7 @@ public class Tibiatools {
         post(driver);
       
         
-        //driver.quit();           
+        driver.quit();           
     }
 
     //read the account info
